@@ -1,0 +1,7 @@
+.container {
+  max-width: 100%;
+  width: 1120px;
+  height: 600px;
+  margin: auto;
+  border: 1px solid #000;
+}
